@@ -1,6 +1,6 @@
 # 💫 A Little About Me:
 
-Hi, I'm Micael! Frontend Developer and Backend Bug Maker<br><br>Always calm, learning more, looking for a series/anime and coding Frontend challenges.<br><br>🔭 I’m currently working on Grupo ON<br>🌱 I’m currently learning NextJS middleware<br>💬 Ask me about anything frontend
+Hi, I'm Micael! Frontend Developer and Backend Bug Maker<br><br>Always calm, learning more, looking for a series/anime and coding a new micro-saas.<br><br>🔭 I’m currently working on Grupo ON<br>🌱 I’m currently learning and working with NextJS<br>💬 Ask me about anything frontend
 
 ## 🌐 My Socials:
 
